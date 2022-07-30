@@ -1,6 +1,3 @@
 name = "currency-work"
 main = "src/index.ts"
 compatibility_date = "2022-07-30"
-routes = [
-	{ pattern = "currency.ammoti.xyz", custom_domain = true }
-]
